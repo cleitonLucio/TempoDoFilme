@@ -1,5 +1,5 @@
 ## Programa Convertendo Min(s) em Horas(s) ##
- > Status do projeto: Em desemvolvimento 
+ > Status do projeto: finalizado. 
  
  Para rodar esse programa na sua máquina, por favor
  
